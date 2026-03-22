@@ -31,31 +31,31 @@ body{
 }
 
 .flex{
-  
+  display: flex;
 }
 
 .infl {
-  
+  display: inline-flex;
 }
 
 .start {
-
+  justify-content: flex-start;
 }
 
 .end {
-
+  justify-content: flex-end;
 }
 
 .center {
-
+  justify-content: center;
 }
 
 .around {
-
+  justify-content: space-around;
 }
 
 .between {
-
+  justify-content: space-between;
 }
 
 .side {
